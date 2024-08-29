@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vivek Kumar
-- 👀 I’m interested in coding and machine learning
-- 🌱 I’m currently learning IOT coding.
-- 💞️ I’m looking to collaborate on automated devices
+- 👀 Problem solving skill with algo and data structure
+- 🌱 Experienced in  IOT coding.
+- 💞️ Machine Learning Algorithm Design and MLOps
+- 🌱 Vast experience in AI and ML Project
 - 📫 vivekltp120@gmail.com
 
 Welcome to the **Data Structures and Algorithms** repository! This collection features clean, well-documented implementations of a wide range of data structures and algorithms. Perfect for educational purposes and practical application.
